@@ -1,0 +1,13 @@
+@import './reset.css';
+
+html, body, #root{
+    height: 100%;
+}
+
+::-moz-selection {
+    background: rgba(0, 255, 255, .7);
+}
+
+::selection {
+    background: rgba(0, 255, 255, .7);
+}
